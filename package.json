@@ -1,0 +1,23 @@
+{
+  "name": "warrior-cors",
+  "version": "1.0.0",
+  "description": "NodeJS Cors",
+  "main": "cors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warriorthereal/warrior-cors.git"
+  },
+  "keywords": [
+    "cors",
+    "nodejs"
+  ],
+  "author": "Warrior The Real <warriorthereal@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warriorthereal/warrior-cors/issues"
+  },
+  "homepage": "https://github.com/warriorthereal/warrior-cors#readme"
+}
